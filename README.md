@@ -2,6 +2,10 @@
 
 Welcome to the Netcat guide! This README contains detailed instructions on how to use Netcat for various networking tasks.
 
+![GitHub license](https://img.shields.io/github/license/KhanIkram/netcat-guide)
+![GitHub stars](https://img.shields.io/github/stars/KhanIkram/netcat-guide?style=social)
+
+
 ## Table of Contents
 - [What is Netcat?](#what-is-netcat)
 - [Installation](#installation)
